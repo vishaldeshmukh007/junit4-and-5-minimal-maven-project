@@ -1,2 +1,2 @@
-"# junit5-minimal-maven-project" 
-"# junit4-and-5-minimal-maven-project" 
+This is a small project demonstrating the use of JUnit-4 and JUnit-5 together.
+It also explains use pr #PowerMockito to mock static methods.
